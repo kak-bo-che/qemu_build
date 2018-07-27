@@ -1,0 +1,1 @@
+This is just a ready built docker image for compiling the debian QEMU package from source.
